@@ -16,14 +16,14 @@
       background: black; /* Optional for contrast */
     }
     img {
-      width: 600%;
-      height: 50%;
-      object-fit: cover;
+      width: 100%; /* Adjust width to fully fill */
+      height: 100%; /* Adjust height to fully fill */
+      object-fit: cover; /* Ensure the GIF covers the area without distortion */
     }
   </style>
 </head>
 <body>
-  <img alt="Coding" src="https://64.media.tumblr.com/ec6056e2ec9e2ddba8f50851fcad796d/tumblr_pauzs2OHH01tes331o3_640.gifv">
+  <img src="https://64.media.tumblr.com/ec6056e2ec9e2ddba8f50851fcad796d/tumblr_pauzs2OHH01tes331o3_640.gifv)" alt="Stretched GIF">
 </body>
 </html>
 
