@@ -1,6 +1,31 @@
 ## Guriqbal Manyani👋
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ec6056e2ec9e2ddba8f50851fcad796d/tumblr_pauzs2OHH01tes331o3_640.gifv">
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stretched and Centered GIF</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      overflow: hidden;
+      background: black; /* Optional for contrast */
+    }
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  </style>
+</head>
+<body>
+  <img alt="Coding" src="https://64.media.tumblr.com/ec6056e2ec9e2ddba8f50851fcad796d/tumblr_pauzs2OHH01tes331o3_640.gifv">
+</body>
+</html>
 
 
 **Software Engineer + Data Science + Game Development == ME**
