@@ -16,7 +16,7 @@
       background: black; /* Optional for contrast */
     }
     img {
-      width: 100%;
+      width: 150%;
       height: 100%;
       object-fit: cover;
     }
