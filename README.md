@@ -4,23 +4,35 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Centered Image</title>
+  <title>Stretched and Centered GIF</title>
   <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
     body {
       margin: 0;
       height: 100vh;
+      width: 100vw;
       display: flex;
       justify-content: center;
       align-items: center;
+      overflow: hidden;
+      background-color: black; /* Optional for contrast */
     }
     img {
-      max-width: 100%;
-      max-height: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover; /* Ensures it stretches without distortion */
     }
   </style>
 </head>
 <body>
-  <img alt="Coding" width="400" src="https://64.media.tumblr.com/ec6056e2ec9e2ddba8f50851fcad796d/tumblr_pauzs2OHH01tes331o3_640.gifv">
+  <img src="https://64.media.tumblr.com/ec6056e2ec9e2ddba8f50851fcad796d/tumblr_pauzs2OHH01tes331o3_640.gifv" alt="Stretched GIF">
 </body>
 </html>
 
