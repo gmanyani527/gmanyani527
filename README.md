@@ -22,12 +22,9 @@
       background-color: black; /* Optional for contrast */
     }
     img {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      object-fit: cover; /* Ensures it stretches without distortion */
+      min-width: 100%;
+      min-height: 100%;
+      object-fit: fill; /* Ensures it completely fills the viewport */
     }
   </style>
 </head>
@@ -35,6 +32,7 @@
   <img src="https://64.media.tumblr.com/ec6056e2ec9e2ddba8f50851fcad796d/tumblr_pauzs2OHH01tes331o3_640.gifv" alt="Stretched GIF">
 </body>
 </html>
+
 
 
 **Software Engineer + Data Science + Game Development == ME**
