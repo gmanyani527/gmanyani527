@@ -1,6 +1,9 @@
 ## Guriqbal Manyani👋
 
-**'Software Engineer + Data Science + Game Development == ME'**
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/99/eb/0e/99eb0e2166f107854d6015f2ab9e9de4.jpg">
+
+
+**Software Engineer + Data Science + Game Development == ME**
 
 I'm a software develepor that likes to explore the vast umbrella of commputer science. I'm a double major at NJIT YWCC with a game development minor because game development is just really cool. I ❤️ coding and building new things started off coding from playing a Minecraft game on code.org. Introduced myself to Python to dive deeper into data science and even started to make my own games through Unity using C#. Stay tuned mates! The show has just begun. 
 
