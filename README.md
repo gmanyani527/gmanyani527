@@ -17,6 +17,16 @@ I'm a software develepor that likes to explore the vast umbrella of commputer sc
 <img align = "left" alt = "Java" width ="30px" style = "padding-right:10px;" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
           
 <img align = "left" alt = "Java" width ="30px" style = "padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
+
+<img align = "left" alt = "Java" width ="30px" style = "padding-right:10px;" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img align = "left" alt = "Java" width ="30px" style = "padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+
+<img align = "left" alt = "Java" width ="30px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+
+<img align = "left" alt = "Java" width ="30px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+          
+<img align = "left" alt = "Java" width ="30px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+               
           
 <!--
 **gmanyani527/gmanyani527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
