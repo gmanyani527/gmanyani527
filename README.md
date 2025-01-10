@@ -11,7 +11,7 @@ I'm a software develepor that likes to explore the vast umbrella of commputer sc
 ### :smirk: Social Media/Contact 
 Other accounts at companies I have worked at:
 - [LinkedIn](https://www.linkedin.com/in/guriqbal-manyani-907517287/) 
-- [Gmail](gmanyani527@gmail.com) 
+- [Gmail - gmanyani527@gmail.com](gmanyani527@gmail.com) 
 
 
 ### 🧰 Langauges and Tools 
