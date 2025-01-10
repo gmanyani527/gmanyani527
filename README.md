@@ -46,18 +46,21 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-origi
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 
 [![Tools](https://skillicons.dev/icons?i=vscode,github,gitlab,eclipse&theme=dark)](https://skillicons.dev)
+
+
+### :briefcase: Credentials
+- Experience:
+  - FullStack Developer for TechinRed startup in Newark, NJ
+  - Self-Taught Game Developer (1 Years) and Software Developer( 1 Year)
+  - Tutor kids in HTML, JavaScript, Lua through game development in Unity @ Code Nninjas
+  - You can view a few of my projects here on my GitHub page!
+-----
           
-<!--
-**gmanyani527/gmanyani527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :round_pushpin: What Am I Doing?
+- :clipboard: Currently I am:
+  - Self-teaching Full Stack Development
+  - Grinding LeetCode
+  - Computer Science + Data Science Student at NJIT YWCC 
+    
+-----
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
