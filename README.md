@@ -28,7 +28,20 @@ I'm a software develepor that likes to explore the vast umbrella of commputer sc
 <img align = "left" alt = "Java" width ="30px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
                
 <img align = "left" alt = "Java" width ="30px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-                    
+
+<img align = "left" alt = "Java" width ="30px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+
+<img align = "left" alt = "Java" width ="30px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+
+<img align = "left" alt = "Java" width ="30px" style = "padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+<img align = "left" alt = "Java" width ="30px" style = "padding-right:10px;"  
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
+          
+<img align = "left" alt = "Java" width ="30px" style = "padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+          
 <!--
 **gmanyani527/gmanyani527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
