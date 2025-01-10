@@ -44,6 +44,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-origi
           
 <img align = "left" alt = "Java" width ="30px" style = "padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+
+[![Tools](https://skillicons.dev/icons?i=vscode,github,gitlab,eclipse&theme=dark)](https://skillicons.dev)
           
 <!--
 **gmanyani527/gmanyani527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
