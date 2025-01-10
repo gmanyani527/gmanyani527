@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Stretched and Centered GIF</title>
+  <title>Centered Image</title>
   <style>
     body {
       margin: 0;
@@ -12,18 +12,15 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      overflow: hidden;
-      background: black; /* Optional for contrast */
     }
     img {
-      width: 100%; /* Adjust width to fully fill */
-      height: 100%; /* Adjust height to fully fill */
-      object-fit: cover; /* Ensure the GIF covers the area without distortion */
+      max-width: 100%;
+      max-height: 100%;
     }
   </style>
 </head>
 <body>
-  <img src="https://64.media.tumblr.com/ec6056e2ec9e2ddba8f50851fcad796d/tumblr_pauzs2OHH01tes331o3_640.gifv)" alt="Stretched GIF">
+  <img alt="Coding" width="400" src="https://64.media.tumblr.com/ec6056e2ec9e2ddba8f50851fcad796d/tumblr_pauzs2OHH01tes331o3_640.gifv">
 </body>
 </html>
 
