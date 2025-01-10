@@ -1,6 +1,6 @@
 ## Guriqbal Manyani👋
 
-  <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/b9350c29675fab81697d3ff2fead0e0e/tumblr_pauzs2OHH01tes331o4_640.gifv">
+  <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ec6056e2ec9e2ddba8f50851fcad796d/tumblr_pauzs2OHH01tes331o3_640.gifv">
 
 
 **Software Engineer + Data Science + Game Development == ME**
