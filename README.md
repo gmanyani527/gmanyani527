@@ -8,7 +8,10 @@
 I'm a software develepor that likes to explore the vast umbrella of commputer science. I'm a double major at NJIT YWCC with a game development minor because game development is just really cool. I ❤️ coding and building new things started off coding from playing a Minecraft game on code.org. Introduced myself to Python to dive deeper into data science and even started to make my own games through Unity using C#. Stay tuned mates! The show has just begun. 
 
 
-
+### :smirk: Social Media/Contact 
+Other accounts at companies I have worked at:
+- [LinkedIn](https://www.linkedin.com/in/guriqbal-manyani-907517287/) 
+- [Gmail](gmanyani527@gmail.com) 
 
 
 ### 🧰 Langauges and Tools 
