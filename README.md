@@ -83,7 +83,7 @@ A full-stack Spring Boot & MySQL e-commerce platform with a responsive frontend 
   - Secure user login + profile management  
   - Persistent shopping cart & full checkout flow  
 
-🔗 [View Repository](https://github.com/YOUR_USERNAME/EasyShop)
+🔗 [View Repository](https://github.com/gmanyani527/E-Commerce-API)
 
 ---
 
@@ -96,7 +96,7 @@ A console-based Java POS app for a customizable sandwich shop. Simulates a real-
 - 🧮 Dynamic price calculation by size, toppings, extras  
 - 📂 File-based storage for saved orders
 
-🔗 [View Repository](https://github.com/YOUR_USERNAME/DELIcious-POS)
+🔗 [View Repository](https://github.com/gmanyani527/TheDeli)
 
 
 ---
