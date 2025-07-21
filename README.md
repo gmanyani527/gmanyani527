@@ -67,12 +67,49 @@ I started my coding journey building redstone machines in Minecraft on Code.org 
 - 🧪 **AI4ALL Scholar** – Predictive modeling project: flood forecasting using environmental data
 
 ---
+---
+
+### 📁 Featured Projects
+
+#### 🛍️ EasyShop – E-Commerce API & Website
+A full-stack Spring Boot & MySQL e-commerce platform with a responsive frontend UI. Built RESTful APIs for product filtering, cart/checkout flows, JWT authentication, and user profiles.
+
+- 🔧 Backend: Java, Spring Boot, MySQL, REST API, JWT  
+- 💻 Frontend: HTML/CSS/JS (running on localhost:8080)  
+- 🧪 Tested using Postman & unit tests
+- 🛠️ Fixed key bugs: product filtering, duplication on update  
+- ✅ Features: 
+  - Browse/filter products (category, price, color)  
+  - Secure user login + profile management  
+  - Persistent shopping cart & full checkout flow  
+
+🔗 [View Repository](https://github.com/YOUR_USERNAME/EasyShop)
+
+---
+
+#### 🥪 DELIcious – Sandwich POS Ordering System
+A console-based Java POS app for a customizable sandwich shop. Simulates a real-world order flow with object-oriented design and detailed pricing logic.
+
+- 🧱 Built with Java OOP principles (inheritance, abstraction)  
+- 🧾 Generates timestamped receipts with detailed pricing  
+- 🥪 Signature sandwiches: BLT, Philly Cheese, Veggie Delight  
+- 🧮 Dynamic price calculation by size, toppings, extras  
+- 📂 File-based storage for saved orders
+
+🔗 [View Repository](https://github.com/YOUR_USERNAME/DELIcious-POS)
+
+
+---
 
 ### 📍 What Am I Doing Right Now?
-- 🔁 Grinding LeetCode & practicing system design  
-- 💻 Building full-stack apps and exploring backend architecture  
-- ☁️ Learning more about cloud (AWS + Azure), AI, and scalable systems  
-- 👀 Looking to collaborate on real-world or open-source projects!
+- 🔁 Grinding LeetCode and strengthening data structures & system design skills  
+- 🛠️ Building a full-stack e-commerce web app using **Spring Boot**, **React**, **JWT authentication**, and **MySQL**  
+- 🔐 Developing a secure **user login and registration system** using **Spring Security** and role-based access control  
+- 🎮 Programming a 2D **game engine from scratch in Java**, with plans to develop a full Super Mario-style platformer  
+- 🧱 Creating a **3D Minecraft-inspired game using React, JavaScript, and Three.js**, applying concepts like `useState`, `useEffect`, custom hooks, and WebGL rendering  
+- ☁️ Exploring backend deployment, **CI/CD pipelines**, and scalable microservice systems  
+- 📊 Expanding my skill set in AI/ML and real-world analytics through hands-on projects
+
 
 ---
 
