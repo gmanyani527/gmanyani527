@@ -48,7 +48,7 @@ I started my coding journey building redstone machines in Minecraft on Code.org 
   - Built a scheduling platform with **React**, **Node.js**, **MongoDB**, and **Stripe**  
   - Implemented real-time chat, auth, payment, and accessibility features
 
-- 🧠 **VR Researcher @ NJIT** (2024 – January 2025)  
+- 🧠 **VR Researcher @ NJIT** (May 2024 -September 2024)  
   - Created a self-defense VR simulation in **Unity** with AI, motion tracking, and RL  
   - Used biometric data to adjust difficulty through reinforcement learning
 
